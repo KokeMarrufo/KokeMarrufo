@@ -80,8 +80,7 @@ with a strong focus on maintainability, performance, and team collaboration.
 ## 📌 Featured Projects
 ⬇️ Pinned repositories below showcase selected work ⬇️
 
-Each repository focuses on **clarity, structure, and real-world patterns**
-rather than toy examples.
+Soon...
 
 ---
 
@@ -90,5 +89,5 @@ rather than toy examples.
 Currently open to **Senior Frontend** or **Senior Mobile Engineer** roles in
 North America (Canada / US).
 
-🔗 LinkedIn: https://www.linkedin.com/in/jorge-marrufo  
+🔗 LinkedIn: [https://www.linkedin.com/in/jorge-marrufo ](https://www.linkedin.com/in/jorge-marrufo-77b51089/) 
 📍 Location: Open to relocation / remote
