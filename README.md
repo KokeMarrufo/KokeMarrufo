@@ -1,29 +1,57 @@
-## Hi, I'm Jorge Marrufo 👋
+# Hi, I'm Jorge Marrufo 👋
 
-Senior full-stack engineer with 14+ years building web and mobile apps, mostly in
-React, TypeScript, React Native, and C#. I lead client work and a team of 11 engineers
-at Motivus, for companies like DocuSign, FTI Consulting, and Lockton.
+**Senior Software Engineer & Technical Lead · React, Vue.js, TypeScript · Web & Mobile**
 
-I'm also doing a Master of Applied Computing (AI Stream) at the University of Windsor,
-and I use AI tools like Claude Code every day to build and ship faster.
+I build web and mobile products and help engineering teams deliver them. Over 14+ years, I’ve worked with U.S. clients on customer-facing applications, frontend modernization, and mobile releases.
 
-### What I work with
-- **Frontend:** React, Next.js, TypeScript, Vue.js, Redux
-- **Mobile:** React Native, Flutter, iOS and Android (shipped to both stores)
-- **Backend:** Node.js, C#, REST, GraphQL, PostgreSQL
-- **AI & tools:** Claude Code, GitHub Copilot, n8n, LLM API integrations
+At Motivus, I combine hands-on engineering with technical leadership, code reviews, and mentoring. I’m also pursuing a Master of Applied Computing, AI Stream, at the University of Windsor.
 
-### Some things I've done
-- Made search noticeably faster on a platform with 2M+ monthly users
-- Cut frontend bundle size by 40% by reworking the architecture
-- Built an AI dashboard that saved my team 20+ hours a week of spreadsheet work
+📍 Windsor, Ontario, Canada  
+💼 Interested in remote frontend, full-stack, and mobile opportunities with international teams  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/jorge-marrufo-77b51089/)
 
-### Featured projects
-- **Spin the Chore**: React Native / Expo app, shipped to the App Store
-- **Impostor / El Lobo**: real-time multiplayer game with Next.js and Socket.io
-- **Java Web Crawler**: team project that collects grad program data from Canadian universities
+## What I bring
 
-### Open to work
-Senior full-stack, frontend, or mobile roles in Canada or the US. Open to relocation or remote.
+- **Frontend modernization:** migrating legacy Angular components to Vue while continuing to ship product features.
+- **Web performance:** improving search experiences and reducing frontend bundle size through architecture changes.
+- **Mobile delivery:** building cross-platform applications and shipping to the App Store and Google Play.
+- **Technical leadership:** turning requirements into implementation plans, reviewing code, and mentoring engineers.
+- **AI-assisted development:** using Claude Code, GitHub Copilot, and LLM integrations alongside code review and testing.
 
-[LinkedIn](https://www.linkedin.com/in/jorge-marrufo-77b51089/)
+## Selected projects
+
+### 🧳 Suitcase Comparator — FitCheck Luggage
+
+A luggage comparison tool that helps travelers choose bags based on size, weight, features, and airline requirements.
+
+- Compare luggage side by side.
+- Check bags against airline size limits, including custom measurements.
+- Explore personal items, carry-ons, and checked luggage.
+
+[Explore Suitcase Comparator →](https://suitcasecomparator.com/)
+
+### ⚽ Simple Predictor
+
+A football prediction app where users make predictions, compete on leaderboards, and create private pools.
+
+**Built with:** Next.js, React Native / Expo, Node.js, and Clerk.
+
+[Explore Simple Predictor →](https://simplepredictor.com/)
+
+## Technologies
+
+| Area | Tools |
+|---|---|
+| Frontend | React, Next.js, Vue.js, TypeScript, JavaScript, Redux, Pinia |
+| Mobile | React Native, Expo, Flutter |
+| Backend and data | Node.js, C#, REST APIs, GraphQL, PostgreSQL |
+| Quality | Jest, Cypress, code reviews, performance optimization |
+| AI and automation | Claude Code, GitHub Copilot, n8n, LLM API integrations |
+
+## Working with me
+
+I enjoy projects where I can stay close to the code, collaborate with product and design, and help other engineers succeed.
+
+I’m based in Canada and interested in remote opportunities with international teams.
+
+[Let’s connect](https://www.linkedin.com/in/jorge-marrufo-77b51089/).
